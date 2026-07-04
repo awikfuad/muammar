@@ -1,11 +1,11 @@
 {
-    "name": "muammar_flutter",
-    "short_name": "muammar_flutter",
+    "name": "DENAH MUAMMAR",
+    "short_name": "DENAH MUAMMAR",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#005b96",
+    "theme_color": "#005b96",
+    "description": "denah muammar digital.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
