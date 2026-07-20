@@ -30106,7 +30106,7 @@ return A.q(null,r)}})
 return A.r($async$a6b,r)},
 RY:function RY(a,b){this.c=a
 this.a=b},
-ml(){var s="application/json",r=new A.aa6(A.aLo(A.aPA("https://muammarts1448.mmua44.my.id/api",B.t2,A.ac(["Content-Type",s,"Accept",s],t.N,t.z),B.t2)))
+ml(){var s="application/json",r=new A.aa6(A.aLo(A.aPA("https://muammar-backend.vercel.app/api",B.t2,A.ac(["Content-Type",s,"Accept",s],t.N,t.z),B.t2)))
 r.aaU()
 return r},
 aa6:function aa6(a){this.a=a},
