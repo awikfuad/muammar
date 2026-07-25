@@ -100643,10 +100643,7 @@ return A.m(A.fU(),$async$$2)
 case 3:o=n.c1(d.a.i(0,"auth_token"))
 if(o!=null){p=a.b
 p===$&&A.a()
-p.m(0,"Authorization","Bearer "+o)}p=a.b
-p===$&&A.a()
-p.m(0,"Authorization","Bearer zVooFGbakWvLRkU2mSHasAASPfiXJ4Yhs6ZMi6Ba6pDblwmFalftGbs9dKZ89JDZ")
-q=b.jY(a)
+p.m(0,"Authorization","Bearer "+o)}q=b.jY(a)
 s=1
 break
 case 1:return A.q(q,r)}})
